@@ -55,7 +55,7 @@ Once all connections are solid, power the Pi back up.
 Configure the I²C OpenPlotter app 
 ---------------------------------
 
-Got to >Openplotter>I2C and add all sensors providing a name for each that makes sense and fits with the Signal K specification, see http://signalk.org/specification/1.0.4/doc/signalk.pdf, see the picture below:
+Go to >Openplotter>I2C and add all sensors providing a name for each that makes sense and fits with the Signal K specification, see http://signalk.org/specification/1.0.4/doc/signalk.pdf, see the picture below:
 
 .. image:: img/i2c1.png
 
